@@ -1,67 +1,81 @@
 Indicator,Link
-Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),/indicator/SI.POV.DDAY
-Income share held by lowest 20%,/indicator/SI.DST.FRST.20
-Gini index,/indicator/SI.POV.GINI
-Population living in slums (% of urban population),/indicator/EN.POP.SLUM.UR.ZS
-"Life expectancy at birth, total (years)",/indicator/SP.DYN.LE00.IN
-"Immunization, measles (% of children ages 12-23 months)",/indicator/SH.IMM.MEAS
-Risk of catastrophic expenditure for surgical care (% of people at risk),/indicator/SH.SGR.CRSK.ZS
-"Prevalence of HIV, total (% of population ages 15-49)",/indicator/SH.DYN.AIDS.ZS
-Renewable energy consumption (% of total final energy consumption),/indicator/EG.FEC.RNEW.ZS
-Land area where elevation is below 5 meters (% of total land area),/indicator/AG.LND.EL5M.ZS
-"Intentional homicides (per 100,000 people)",/indicator/VC.IHR.PSRC.P5
-Refugee population by country or territory of asylum,/indicator/SM.POP.REFG
-Armed forces personnel (% of total labor force),/indicator/MS.MIL.TOTL.TF.ZS
-"Internally displaced persons, new displacement associated with disasters (number of cases)",/indicator/VC.IDP.NWDS
-Urban land area where elevation is below 5 meters (sq. km),/indicator/AG.LND.EL5M.UR.K2
-Urban population (% of total population),/indicator/SP.URB.TOTL.IN.ZS
-"Central government debt, total (% of GDP)",/indicator/GC.DOD.TOTL.GD.ZS
-Statistical performance indicators (SPI): Overall score (scale 0-100),/indicator/IQ.SPI.OVRL
-Military expenditure (% of GDP),/indicator/MS.MIL.XPND.GD.ZS
-GNI (current US$),/indicator/NY.GNP.MKTP.CD
-GNI per capita growth (annual %),/indicator/NY.GNP.PCAP.KD.ZG
-"Net trade in goods and services (BoP, current US$)",/indicator/BN.GSR.GNFS.CD
-"Foreign direct investment, net (BoP, current US$)",/indicator/BN.KLT.DINV.CD
-"Railways, goods transported (million ton-km)",/indicator/IS.RRS.GOOD.MT.K6
-Public private partnerships investment in energy (current US$),/indicator/IE.PPN.ENGY.CD
-Public private partnerships investment in transport (current US$),/indicator/IE.PPN.TRAN.CD
-Public private partnerships investment in water and sanitation (current US$),/indicator/IE.PPN.WATR.CD
-"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",/indicator/SL.TLF.CACT.ZS
-GDP per person employed (constant 2021 PPP $),/indicator/SL.GDP.PCAP.EM.KD
-"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",/indicator/SL.EMP.TOTL.SP.ZS
-Forest area (% of land area),/indicator/AG.LND.FRST.ZS
-Adjusted savings: net forest depletion (% of GNI),/indicator/NY.ADJ.DFOR.GN.ZS
-Terrestrial and marine protected areas (% of total territorial area),/indicator/ER.PTD.TOTL.ZS
-Firms using banks to finance investment (% of firms),/indicator/IC.FRM.BNKS.ZS
-Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),/indicator/LP.LPI.ITRN.XQ
-High-technology exports (% of manufactured exports),/indicator/TX.VAL.TECH.MF.ZS
-"Stocks traded, total value (% of GDP)",/indicator/CM.MKT.TRAD.GD.ZS
-Individuals using the Internet (% of population),/indicator/IT.NET.USER.ZS
-Mobile cellular subscriptions (per 100 people),/indicator/IT.CEL.SETS.P2
-Fixed broadband subscriptions (per 100 people),/indicator/IT.NET.BBND.P2
-Alternative and nuclear energy (% of total energy use),/indicator/EG.USE.COMM.CL.ZS
-Access to electricity (% of population),/indicator/EG.ELC.ACCS.ZS
-Electric power consumption (kWh per capita),/indicator/EG.USE.ELEC.KH.PC
-Access to clean fuels and technologies for cooking (% of population),/indicator/EG.CFT.ACCS.ZS
-"Children in employment, total (% of children ages 7-14)",/indicator/SL.TLF.0714.ZS
-"Children in employment, unpaid family workers (% of children in employment, ages 7-14)",/indicator/SL.FAM.0714.ZS
-Coverage of social protection and labor programs (% of population),/indicator/PER_ALLSP.COV_POP_TOT
-Social contributions (% of revenue),/indicator/GC.REV.SOCL.ZS
-"Annual freshwater withdrawals, total (% of internal resources)",/indicator/ER.H2O.FWTL.ZS
-People using at least basic drinking water services (% of population),/indicator/SH.H2O.BASW.ZS
-People with basic handwashing facilities including soap and water (% of population),/indicator/SH.STA.HYGN.ZS
-Marine protected areas (% of territorial waters),/indicator/ER.MRN.PTMR.ZS
-"School enrollment, primary and secondary (gross), gender parity index (GPI)",/indicator/SE.ENR.PRSC.FM.ZS
-Proportion of seats held by women in national parliaments (%),/indicator/SG.GEN.PARL.ZS
-"Contraceptive prevalence, any method (% of married women ages 15-49)",/indicator/SP.DYN.CONU.ZS
-"Maternal mortality ratio (modeled estimate, per 100,000 live births)",/indicator/SH.STA.MMRT
-"School enrollment, primary (% gross)",/indicator/SE.PRM.ENRR
-"Literacy rate, adult total (% of people ages 15 and above)",/indicator/SE.ADT.LITR.ZS
-"Primary completion rate, total (% of relevant age group)",/indicator/SE.PRM.CMPT.ZS
-"Government expenditure on education, total (% of government expenditure)",/indicator/SE.XPD.TOTL.GB.ZS
-Crop production index (2014-2016 = 100),/indicator/AG.PRD.CROP.XD
-Livestock production index (2014-2016 = 100),/indicator/AG.PRD.LVSK.XD
-Agricultural land (% of land area),/indicator/AG.LND.AGRI.ZS
-"Agriculture, forestry, and fishing, value added (% of GDP)",/indicator/NV.AGR.TOTL.ZS
-"Railways, passengers carried (million passenger-km)",/indicator/IS.RRS.PASG.KM
-"Mortality caused by road traffic injury (per 100,000 population)",/indicator/SH.STA.TRAF.P5
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),https://data.worldbank.org/indicator/SI.POV.DDAY
+Income share held by lowest 20%,https://data.worldbank.org/indicator/SI.DST.FRST.20
+Gini index,https://data.worldbank.org/indicator/SI.POV.GINI
+Population living in slums (% of urban population),https://data.worldbank.org/indicator/EN.POP.SLUM.UR.ZS
+"Life expectancy at birth, total (years)",https://data.worldbank.org/indicator/SP.DYN.LE00.IN
+"Immunization, measles (% of children ages 12-23 months)",https://data.worldbank.org/indicator/SH.IMM.MEAS
+Risk of catastrophic expenditure for surgical care (% of people at risk),https://data.worldbank.org/indicator/SH.SGR.CRSK.ZS
+"Prevalence of HIV, total (% of population ages 15-49)",https://data.worldbank.org/indicator/SH.DYN.AIDS.ZS
+Renewable energy consumption (% of total final energy consumption),https://data.worldbank.org/indicator/EG.FEC.RNEW.ZS
+Land area where elevation is below 5 meters (% of total land area),https://data.worldbank.org/indicator/AG.LND.EL5M.ZS
+"Intentional homicides (per 100,000 people)",https://data.worldbank.org/indicator/VC.IHR.PSRC.P5
+Refugee population by country or territory of asylum,https://data.worldbank.org/indicator/SM.POP.REFG
+Armed forces personnel (% of total labor force),https://data.worldbank.org/indicator/MS.MIL.TOTL.TF.ZS
+"Internally displaced persons, new displacement associated with disasters (number of cases)",https://data.worldbank.org/indicator/VC.IDP.NWDS
+Urban land area where elevation is below 5 meters (sq. km),https://data.worldbank.org/indicator/AG.LND.EL5M.UR.K2
+Urban population (% of total population),https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS
+"Central government debt, total (% of GDP)",https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS
+Statistical performance indicators (SPI): Overall score (scale 0-100),https://data.worldbank.org/indicator/IQ.SPI.OVRL
+Military expenditure (% of GDP),https://data.worldbank.org/indicator/MS.MIL.XPND.GD.ZS
+GNI (current US$),https://data.worldbank.org/indicator/NY.GNP.MKTP.CD
+GNI per capita growth (annual %),https://data.worldbank.org/indicator/NY.GNP.PCAP.KD.ZG
+"Net trade in goods and services (BoP, current US$)",https://data.worldbank.org/indicator/BN.GSR.GNFS.CD
+"Foreign direct investment, net (BoP, current US$)",https://data.worldbank.org/indicator/BN.KLT.DINV.CD
+"Railways, goods transported (million ton-km)",https://data.worldbank.org/indicator/IS.RRS.GOOD.MT.K6
+Public private partnerships investment in energy (current US$),https://data.worldbank.org/indicator/IE.PPN.ENGY.CD
+Public private partnerships investment in transport (current US$),https://data.worldbank.org/indicator/IE.PPN.TRAN.CD
+Public private partnerships investment in water and sanitation (current US$),https://data.worldbank.org/indicator/IE.PPN.WATR.CD
+"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.TLF.CACT.ZS
+GDP per person employed (constant 2021 PPP $),https://data.worldbank.org/indicator/SL.GDP.PCAP.EM.KD
+"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.EMP.TOTL.SP.ZS
+Forest area (% of land area),https://data.worldbank.org/indicator/AG.LND.FRST.ZS
+Adjusted savings: net forest depletion (% of GNI),https://data.worldbank.org/indicator/NY.ADJ.DFOR.GN.ZS
+Terrestrial and marine protected areas (% of total territorial area),https://data.worldbank.org/indicator/ER.PTD.TOTL.ZS
+Firms using banks to finance investment (% of firms),https://data.worldbank.org/indicator/IC.FRM.BNKS.ZS
+Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high),https://data.worldbank.org/indicator/LP.LPI.ITRN.XQ
+High-technology exports (% of manufactured exports),https://data.worldbank.org/indicator/TX.VAL.TECH.MF.ZS
+"Stocks traded, total value (% of GDP)",https://data.worldbank.org/indicator/CM.MKT.TRAD.GD.ZS
+Individuals using the Internet (% of population),https://data.worldbank.org/indicator/IT.NET.USER.ZS
+Mobile cellular subscriptions (per 100 people),https://data.worldbank.org/indicator/IT.CEL.SETS.P2
+Fixed broadband subscriptions (per 100 people),https://data.worldbank.org/indicator/IT.NET.BBND.P2
+Alternative and nuclear energy (% of total energy use),https://data.worldbank.org/indicator/EG.USE.COMM.CL.ZS
+Access to electricity (% of population),https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS
+Electric power consumption (kWh per capita),https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC
+Access to clean fuels and technologies for cooking (% of population),https://data.worldbank.org/indicator/EG.CFT.ACCS.ZS
+"Children in employment, total (% of children ages 7-14)",https://data.worldbank.org/indicator/SL.TLF.0714.ZS
+"Children in employment, unpaid family workers (% of children in employment, ages 7-14)",https://data.worldbank.org/indicator/SL.FAM.0714.ZS
+Coverage of social protection and labor programs (% of population),https://data.worldbank.org/indicator/PER_ALLSP.COV_POP_TOT
+Social contributions (% of revenue),https://data.worldbank.org/indicator/GC.REV.SOCL.ZS
+"Annual freshwater withdrawals, total (% of internal resources)",https://data.worldbank.org/indicator/ER.H2O.FWTL.ZS
+People using at least basic drinking water services (% of population),https://data.worldbank.org/indicator/SH.H2O.BASW.ZS
+People with basic handwashing facilities including soap and water (% of population),https://data.worldbank.org/indicator/SH.STA.HYGN.ZS
+Marine protected areas (% of territorial waters),https://data.worldbank.org/indicator/ER.MRN.PTMR.ZS
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",https://data.worldbank.org/indicator/SE.ENR.PRSC.FM.ZS
+Proportion of seats held by women in national parliaments (%),https://data.worldbank.org/indicator/SG.GEN.PARL.ZS
+"Contraceptive prevalence, any method (% of married women ages 15-49)",https://data.worldbank.org/indicator/SP.DYN.CONU.ZS
+"Maternal mortality ratio (modeled estimate, per 100,000 live births)",https://data.worldbank.org/indicator/SH.STA.MMRT
+"School enrollment, primary (% gross)",https://data.worldbank.org/indicator/SE.PRM.ENRR
+"Literacy rate, adult total (% of people ages 15 and above)",https://data.worldbank.org/indicator/SE.ADT.LITR.ZS
+"Primary completion rate, total (% of relevant age group)",https://data.worldbank.org/indicator/SE.PRM.CMPT.ZS
+"Government expenditure on education, total (% of government expenditure)",https://data.worldbank.org/indicator/SE.XPD.TOTL.GB.ZS
+Crop production index (2014-2016 = 100),https://data.worldbank.org/indicator/AG.PRD.CROP.XD
+Livestock production index (2014-2016 = 100),https://data.worldbank.org/indicator/AG.PRD.LVSK.XD
+Agricultural land (% of land area),https://data.worldbank.org/indicator/AG.LND.AGRI.ZS
+"Agriculture, forestry, and fishing, value added (% of GDP)",https://data.worldbank.org/indicator/NV.AGR.TOTL.ZS
+"Railways, passengers carried (million passenger-km)",https://data.worldbank.org/indicator/IS.RRS.PASG.KM
+"Mortality caused by road traffic injury (per 100,000 population)",https://data.worldbank.org/indicator/SH.STA.TRAF.P5
+"Population, total",https://data.worldbank.org/indicator/SP.POP.TOTL
+Population growth (annual %),https://data.worldbank.org/indicator/SP.POP.GROW
+Net migration,https://data.worldbank.org/indicator/SM.POP.NETM
+Human Capital Index (HCI) (scale 0-1),https://data.worldbank.org/indicator/HD.HCI.OVRL
+GDP (current US$),https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+GDP per capita (current US$),https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+GDP growth (annual %),https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS
+"Inflation, consumer prices (annual %)",https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
+"Personal remittances, received (% of GDP)",https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS
+,https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",https://data.worldbank.org/indicator/EG.ELC.RNWX.ZS
+People using safely managed sanitation services (% of population),https://data.worldbank.org/indicator/SH.STA.SMSS.ZS
+"Foreign direct investment, net inflows (% of GDP)",https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS
